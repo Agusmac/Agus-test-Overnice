@@ -75,3 +75,7 @@ export default function Home() {
     </main>
   );
 }
+  {/* I probably could have made all of those components into a single one
+  with conditionals for the structure and classes, and an array to loop with 
+  different properties but it would have taken a lot more time to make than 
+  the actual animation */}

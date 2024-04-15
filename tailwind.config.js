@@ -18,10 +18,6 @@ module.exports = {
         blueish: '#1F2B48',
         transparent: 'transparent',
         current: 'currentColor',
-        // 'yellow': '#FFBB56',
-        // 'emerald':'#45E3BE',
-        // 'blueish':'#2FBDEA',
-        // 'violet':'#8D65FF'
       },
     },
   },
